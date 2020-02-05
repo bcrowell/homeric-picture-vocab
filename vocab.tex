@@ -1,0 +1,70 @@
+\documentclass[12pt,openany]{book}
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\usepackage[bindingoffset=0.2in,%
+            left=0in,right=0.5in,top=1in,bottom=1in,%
+            footskip=.25in]{geometry}
+\usepackage[inkscapearea=drawing]{svg}
+\usepackage{titlesec}
+
+\titleformat{\chapter}[block]
+  {\normalfont\huge\bfseries\centering}{}{0em}{\Huge}
+\titlespacing*{\chapter}{0pt}{-19pt}{50pt} % left, before, after
+
+\newenvironment{notes}{\vfill\scriptsize\begin{flushright}}{\end{flushright}}
+% \tiny would be smaller, \footnotesize larger
+
+\newcommand{\fig}[1]{\begin{center}\includesvg{#1}\end{center}}
+
+\begin{document}
+
+%---------------------------------------
+
+\chapter{οἵ ἀριθμοί}
+
+\fig{numbers/numbers.svg}
+
+\begin{notes}
+Homer has 4=τέσσαρα, other ancient dialects τέτταρα.
+Modern: ένα, τέσσαρα, έξι.
+
+Cognates: dual, triangle, pentagon (etc.), decade,
+prototype, Deuteronomy, tritium.
+\end{notes}
+
+%---------------------------------------
+
+\chapter{τά ὄμματα, τα προσώπατα}
+
+\fig{face/face.svg}
+
+\begin{notes}
+In Homer, face=τά ὄμματα (lit. eyes), τα προσώπατα (pl.).
+Modern πρόσωπο.
+
+Cognates: cephalic, stomach,
+acoustic.
+\end{notes}
+
+%---------------------------------------
+
+\chapter{τό δέμας}
+
+\fig{body/body.svg}
+
+\begin{notes}
+Modern: χέρι, πόδι, άνδρας, γυναίκα. In Homer, σῶμα=dead body.
+\end{notes}
+
+%---------------------------------------
+
+\chapter{τα ζῷα, τα θηρία}
+
+\fig{animals/animals.svg}
+
+\begin{notes}
+κάπρος=boar,  θώς=jackal. Cognates: zoo, canine, hippo, lion, lycanthrope, ornithology.
+Modern dog=σκύλς, sheep=πρόβατο.
+\end{notes}
+
+\end{document}

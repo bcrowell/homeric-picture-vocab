@@ -1,0 +1,15 @@
+*~
+*.gz
+svg-inkscape/**
+*.pdf
+
+*.aux
+*.log
+*.idx
+*.toc
+*.ilg
+*.bak
+*.ind
+
+a.a
+
