@@ -16,6 +16,9 @@
 
 \newcommand{\fig}[1]{\begin{center}\includesvg{#1}\end{center}}
 
+\setsvg{inkscapelatex=false}
+% https://tex.stackexchange.com/questions/213432/how-not-to-extract-text-when-using-includesvg
+
 \begin{document}
 
 %---------------------------------------
@@ -34,33 +37,37 @@ prototype, Deuteronomy, tritium.
 
 %---------------------------------------
 
-\chapter{τά ὄμματα, τα προσώπατα}
+\chapter{τά ὄμματα, τα πρόσωπα}
 
 \fig{face/face.svg}
 
 \begin{notes}
-In Homer, face=τά ὄμματα (lit. eyes), τα προσώπατα (pl.).
-Modern πρόσωπο.
+In Homer, face=τά ὄμματα (lit. eyes), τα πρόσωπα (or -πατα) (pl.).
+Modern πρόσωπο. Lit. ``next to the eyes.''
+``Hair,'' τρίχες, is always plural, so the sing.~nom.~root θρίξ never occurs in Homer.
+``Ear'' usually occurs as οὔατα or οὔατος, often in stylized descriptions of actions such as
+skinning a man and cutting off his ears with ``unpitying brass,'' ``τοῦ δ' ἀπὸ μὲν ῥῖνάς τε καὶ οὔατα νηλέϊ χαλκῷ'' (Odyssey 22.476).
+
 
 Cognates: cephalic, stomach,
-acoustic.
+acoustic, glossary, tresses.
 \end{notes}
 
 %---------------------------------------
 
-\chapter{τό δέμας}
+\chapter{τα γυῖα, τα μέλεα, τό δέμας}
 
 \fig{body/body.svg}
 
 \begin{notes}
-Modern: χέρι, πόδι, άνδρας, γυναίκα. In Homer, σῶμα=dead body.
+Modern: χέρι, πόδι, άνδρας, γυναίκα. In Homer, σῶμα=dead body, τα γυῖα, τα μέλεα=the body (lit. ``the limbs'').
 \end{notes}
 
 %---------------------------------------
 
 \chapter{τα ζῷα, τα θηρία}
 
-\fig{animals/animals.svg}
+\fig{animals/animals.svg} % gives invalid glyph error
 
 \begin{notes}
 κάπρος=boar,  θώς=jackal. Cognates: zoo, canine, hippo, lion, lycanthrope, ornithology.
@@ -74,9 +81,29 @@ Modern dog=σκύλς, sheep=πρόβατο.
 \fig{emotions/emotions.svg}
 
 \begin{notes}
+Descriptions of emotional state that in English would be expressed using to be+adjective (``I am happy'') are
+more often expressed using verbs, e.g., ``χαίρω.'' The adjectives for ``happy'' and ``sad'' express something
+more like fortunate/unfortunate or blessed/not blessed rather than an emotional state.
+Modern χαίρετε is a greeting, meaning to rejoice in the gospels.
 ἡ τύχη=fortune. ἕλεος=pity, also οἱκτος. μῆνις=anger (Iliad 1.1). χωόμενος=angry (Iliad 1.44). φρίκη = lit. "shudder."
 θωπεία=cringing. θαυμα=wonder, marvel. φιλία=love, friendship. ἕρως=love, erotic love. ὑπόνοια=suspicion.
 Cognates: apoplexy, erotic, phobia, 
+\end{notes}
+
+%---------------------------------------
+
+\chapter{ὁ νους}
+
+\fig{mind/mind.svg}
+
+%---------------------------------------
+
+\chapter{ὁ οὐρανός}
+
+\fig{sky/sky.svg}
+
+\begin{notes}
+Cognates: helium, selenuim, asteroid, brontosaurus, anemometer, pneumatic, \emph{Eohippus}=dawn horse.
 \end{notes}
 
 \end{document}

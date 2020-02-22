@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="emotions.svg">
   <defs
      id="defs2" />
@@ -26,7 +26,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3071771"
+     inkscape:zoom="1.1535886"
      inkscape:cx="519.48523"
      inkscape:cy="808.19542"
      inkscape:document-units="mm"
@@ -34,7 +34,7 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1280"
-     inkscape:window-height="996"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -57,105 +57,105 @@
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/happy.jpg"
        xlink:href="figs/happy.jpg"
-       y="20.260143"
-       x="25.027973"
-       id="image909"
-       preserveAspectRatio="none"
+       width="23.401474"
        height="29.10915"
-       width="23.401474" />
+       preserveAspectRatio="none"
+       id="image909"
+       x="25.027973"
+       y="20.260143" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/sad.jpg"
        xlink:href="figs/sad.jpg"
-       y="53.9188"
-       x="24.946598"
-       id="image971"
-       preserveAspectRatio="none"
+       width="21.092989"
        height="28.410965"
-       width="21.092989" />
+       preserveAspectRatio="none"
+       id="image971"
+       x="24.946598"
+       y="53.9188" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/afraid.jpg"
        xlink:href="figs/afraid.jpg"
-       y="86.261269"
-       x="24.75713"
-       id="image1017"
-       preserveAspectRatio="none"
+       width="21.136997"
        height="24.356539"
-       width="21.136997" />
+       preserveAspectRatio="none"
+       id="image1017"
+       x="24.75713"
+       y="86.261269" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/angry.jpg"
        xlink:href="figs/angry.jpg"
-       y="114.93425"
-       x="23.736439"
-       id="image1079"
-       preserveAspectRatio="none"
+       width="24.439112"
        height="21.230383"
-       width="24.439112" />
+       preserveAspectRatio="none"
+       id="image1079"
+       x="23.736439"
+       y="114.93425" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/cringing.jpg"
        xlink:href="figs/cringing.jpg"
-       y="116.45348"
-       x="91.731049"
-       id="image1141"
-       preserveAspectRatio="none"
+       width="27.049568"
        height="15.4743"
-       width="27.049568" />
+       preserveAspectRatio="none"
+       id="image1141"
+       x="91.731049"
+       y="116.45348" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/horrified.jpg"
        xlink:href="figs/horrified.jpg"
-       y="80.833679"
-       x="92.521347"
-       id="image1203"
-       preserveAspectRatio="none"
+       width="17.796434"
        height="25.093719"
-       width="17.796434" />
+       preserveAspectRatio="none"
+       id="image1203"
+       x="92.521347"
+       y="80.833679" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/scornful.jpg"
        xlink:href="figs/scornful.jpg"
-       y="144.76956"
-       x="25.015293"
-       id="image1265"
-       preserveAspectRatio="none"
+       width="20.985435"
        height="22.0853"
-       width="20.985435" />
+       preserveAspectRatio="none"
+       id="image1265"
+       x="25.015293"
+       y="144.76956" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/surprised.jpg"
        xlink:href="figs/surprised.jpg"
-       y="139.86307"
-       x="93.39843"
-       id="image1327"
-       preserveAspectRatio="none"
+       width="15.404329"
        height="23.740789"
-       width="15.404329" />
+       preserveAspectRatio="none"
+       id="image1327"
+       x="93.39843"
+       y="139.86307" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/suspicious.jpg"
        xlink:href="figs/suspicious.jpg"
-       y="113.84914"
-       x="128.21216"
-       id="image1389"
-       preserveAspectRatio="none"
+       width="17.250694"
        height="25.61624"
-       width="17.250694" />
+       preserveAspectRatio="none"
+       id="image1389"
+       x="128.21216"
+       y="113.84914" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="55.107304"
-       y="31.746658"
+       y="28.571655"
        id="text827"><tspan
          sodipodi:role="line"
          id="tspan825"
          x="55.107304"
-         y="31.746658"
+         y="28.571655"
          style="stroke-width:0.26458332">εὐτυχής</tspan><tspan
          sodipodi:role="line"
          x="55.107304"
-         y="39.684158"
+         y="36.509155"
          style="stroke-width:0.26458332"
-         id="tspan831">μακάριος</tspan><tspan
+         id="tspan829">γηθέω</tspan><tspan
          sodipodi:role="line"
          x="55.107304"
-         y="47.621658"
+         y="44.446655"
          style="stroke-width:0.26458332"
-         id="tspan829">εὐδαίμων</tspan></text>
+         id="tspan3756">χαίρω</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -180,12 +180,12 @@
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/pity.jpg"
        xlink:href="figs/pity.jpg"
-       width="19.113577"
-       height="16.968176"
-       preserveAspectRatio="none"
-       id="image886"
+       y="88.605385"
        x="128.08626"
-       y="88.605385" />
+       id="image886"
+       preserveAspectRatio="none"
+       height="16.968176"
+       width="19.113577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -240,12 +240,12 @@
       <image
          sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/emotions/figs/achilles-and-patroclus.jpg"
          xlink:href="figs/achilles-and-patroclus.jpg"
-         y="0.77973706"
-         x="86.571541"
-         id="image882"
-         preserveAspectRatio="none"
+         width="63.555096"
          height="62.728882"
-         width="63.555096" />
+         preserveAspectRatio="none"
+         id="image882"
+         x="86.571541"
+         y="0.77973706" />
       <path
          inkscape:connector-curvature="0"
          id="rect887"
@@ -300,13 +300,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="56.217991"
-       y="68.814331"
+       y="66.697662"
        id="text920"><tspan
          sodipodi:role="line"
          id="tspan918"
          x="56.217991"
-         y="68.814331"
-         style="stroke-width:0.26458332">δυστυχής</tspan></text>
+         y="66.697662"
+         style="stroke-width:0.26458332">δυστυχής</tspan><tspan
+         sodipodi:role="line"
+         x="56.217991"
+         y="74.635162"
+         style="stroke-width:0.26458332"
+         id="tspan3758">ἄχθομαι</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
