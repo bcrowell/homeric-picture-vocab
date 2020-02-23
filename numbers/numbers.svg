@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="numbers.svg">
   <defs
      id="defs2" />
@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88519083"
-     inkscape:cx="356.93523"
-     inkscape:cy="725.12481"
+     inkscape:zoom="1.2562107"
+     inkscape:cx="140.64764"
+     inkscape:cy="669.3472"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="996"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -53,6 +53,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58875215;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect921"
+       width="215.89999"
+       height="13.749389"
+       x="0.29889977"
+       y="100.32395" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path815"
@@ -548,21 +555,21 @@
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/numbers/figs/numbers-octopus.jpg"
        xlink:href="figs/numbers-octopus.jpg"
-       width="38.80518"
-       height="36.548054"
-       preserveAspectRatio="none"
-       id="image1585"
+       y="47.276173"
        x="176.00012"
-       y="47.276173" />
+       id="image1585"
+       preserveAspectRatio="none"
+       height="36.548054"
+       width="38.80518" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/numbers/figs/numbers-hoplites.jpg"
        xlink:href="figs/numbers-hoplites.jpg"
-       width="62.129997"
-       height="68.094482"
-       preserveAspectRatio="none"
-       id="image1723"
+       y="136.91933"
        x="21.89673"
-       y="136.91933" />
+       id="image1723"
+       preserveAspectRatio="none"
+       height="68.094482"
+       width="62.129997" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -639,12 +646,5 @@
          y="152.5936"
          style="stroke-width:0.26458332"
          id="tspan1036">θηλυκόν: μία δύο τρεῖς τέσσαρες</tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58875215;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect921"
-       width="215.89999"
-       height="13.749389"
-       x="0.29889977"
-       y="100.32395" />
   </g>
 </svg>
