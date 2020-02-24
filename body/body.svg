@@ -31,9 +31,9 @@
      inkscape:window-height="998"
      id="namedview2426"
      showgrid="false"
-     inkscape:zoom="1.030911"
-     inkscape:cx="348.34431"
-     inkscape:cy="399.95141"
+     inkscape:zoom="0.76421538"
+     inkscape:cx="34.083047"
+     inkscape:cy="324.38683"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -5827,14 +5827,19 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="27.119864"
-     y="515.58203"
+     x="143.41562"
+     y="484.42261"
      id="text1961"><tspan
        sodipodi:role="line"
-       x="27.119864"
-       y="515.58203"
+       x="143.41562"
+       y="484.42261"
        style="stroke-width:0.74999994"
-       id="tspan1963">ὁ πούς, ποδός </tspan></text>
+       id="tspan1963">ὁ πούς,</tspan><tspan
+       sodipodi:role="line"
+       x="143.41562"
+       y="506.92261"
+       style="stroke-width:0.74999994"
+       id="tspan1196">ποδός </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5860,15 +5865,10 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
      y="273.67221"
      id="text1977"><tspan
        sodipodi:role="line"
-       id="tspan1975"
        x="247.67668"
        y="273.67221"
-       style="stroke-width:0.74999994">ὁ βραχύς</tspan><tspan
-       sodipodi:role="line"
-       x="247.67668"
-       y="296.17221"
        style="stroke-width:0.74999994"
-       id="tspan1979">-ίονος</tspan></text>
+       id="tspan1979">ὁ βραχίων</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5909,7 +5909,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        id="tspan6192"
        x="501.82703"
        y="-304.09976"
-       style="stroke-width:0.74999994">τό νῶτον</tspan></text>
+       style="stroke-width:0.74999994">νῶτον</tspan></text>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.64409447;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect11980"
@@ -5928,7 +5928,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        id="tspan11974"
        x="472.82413"
        y="54.22504"
-       style="stroke-width:0.74999994">ὁ δάκτυλος</tspan></text>
+       style="stroke-width:0.74999994">δάκτυλος</tspan></text>
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none"
      d="m 455.84367,277.39974 c -4.99239,3.64829 -1.72813,4.22433 -2.30418,7.10455 -0.57604,1.15209 -1.92015,4.9924 -1.92015,4.9924"
@@ -5939,103 +5939,103 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      x="27.155016"
-     y="537.54431"
+     y="530.04431"
      id="text11990"><tspan
        sodipodi:role="line"
        id="tspan11988"
        x="27.155016"
-       y="537.54431"
+       y="530.04431"
        style="stroke-width:0.74999994">ὁ ἀνήρ, ἀνδρός</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      x="300.87769"
-     y="537.54431"
+     y="530.04431"
      id="text11994"><tspan
        sodipodi:role="line"
        x="300.87769"
-       y="537.54431"
+       y="530.04431"
        style="stroke-width:0.74999994"
        id="tspan11996">ἡ γυνή, γυναικός, γυναῖκα</tspan></text>
   <image
      sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/body/figs/bones.jpg"
      xlink:href="figs/bones.jpg"
-     width="101.58427"
-     height="81.521378"
-     preserveAspectRatio="none"
-     id="image2068"
+     y="543.50366"
      x="28.458057"
-     y="551.00366" />
+     id="image2068"
+     preserveAspectRatio="none"
+     height="53.319565"
+     width="66.441826" />
   <image
      sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/body/figs/heart.jpg"
      xlink:href="figs/heart.jpg"
-     transform="rotate(-90)"
-     width="82.607773"
-     height="104.0107"
-     preserveAspectRatio="none"
+     y="152.47989"
+     x="-598.41687"
      id="image2130"
-     x="-634.96161"
-     y="218.07758" />
+     preserveAspectRatio="none"
+     height="68.028847"
+     width="54.030128"
+     transform="rotate(-90)" />
   <image
      sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/body/figs/skin.jpg"
      xlink:href="figs/skin.jpg"
-     width="110.67648"
-     height="70.793068"
-     preserveAspectRatio="none"
+     y="545.72058"
+     x="280.10205"
      id="image2192"
-     x="413.20172"
-     y="554.39319" />
+     preserveAspectRatio="none"
+     height="46.302647"
+     width="72.388641" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="133.12213"
-     y="584.46295"
+     x="93.515686"
+     y="570.36188"
      id="text2197"><tspan
        sodipodi:role="line"
        id="tspan2195"
-       x="133.12213"
-       y="584.46295"
-       style="stroke-width:0.74999994">τό ὀστέον </tspan></text>
+       x="93.515686"
+       y="570.36188"
+       style="stroke-width:0.74999994">ὀστέον </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="326.97342"
-     y="580.32275"
+     x="221.35623"
+     y="566.22168"
      id="text2201"><tspan
        sodipodi:role="line"
        id="tspan2199"
-       x="326.97342"
-       y="580.32275"
-       style="stroke-width:0.74999994">ἡ καρδία</tspan><tspan
+       x="221.35623"
+       y="566.22168"
+       style="stroke-width:0.74999994">καρδία</tspan><tspan
        sodipodi:role="line"
-       x="326.97342"
-       y="602.82275"
+       x="221.35623"
+       y="588.72168"
        style="stroke-width:0.74999994"
        id="tspan1194">τό αἷμα </tspan></text>
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none"
-     d="M 21.606,520.98771 H 181.07885"
+     d="M 21.606,513.48771 H 181.07885"
      id="path2203"
      inkscape:connector-curvature="0" />
   <path
      style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none"
-     d="M 203.71371,520.98771 H 567.92914"
+     d="M 203.71371,513.48771 H 567.92914"
      id="path2205"
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     x="528.3924"
-     y="578.82275"
+     x="363.36554"
+     y="564.72168"
      id="text2213"><tspan
        sodipodi:role="line"
        id="tspan2211"
-       x="528.3924"
-       y="578.82275"
+       x="363.36554"
+       y="564.72168"
        style="stroke-width:0.74999994">ὁ χρώς</tspan><tspan
        sodipodi:role="line"
-       x="528.3924"
-       y="601.32275"
+       x="363.36554"
+       y="587.22168"
        style="stroke-width:0.74999994"
        id="tspan1195">τό δέρμα</tspan></text>
 </svg>

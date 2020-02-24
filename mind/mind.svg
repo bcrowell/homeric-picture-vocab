@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="mind.svg">
   <defs
      id="defs2" />
@@ -27,13 +27,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4966188"
-     inkscape:cx="322.6897"
+     inkscape:cx="239.83627"
      inkscape:cy="816.62629"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="996"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,39 +56,39 @@
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/mind/figs/aristotle.jpg"
        xlink:href="figs/aristotle.jpg"
-       width="27.119318"
-       height="25.744604"
-       preserveAspectRatio="none"
-       id="image893"
+       y="29.37174"
        x="87.032738"
-       y="29.37174" />
+       id="image893"
+       preserveAspectRatio="none"
+       height="25.744604"
+       width="27.119318" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/mind/figs/demosthenes.jpg"
        xlink:href="figs/demosthenes.jpg"
-       width="22.690668"
-       height="22.690668"
-       preserveAspectRatio="none"
-       id="image955"
+       y="30.898708"
        x="33.045822"
-       y="30.898708" />
+       id="image955"
+       preserveAspectRatio="none"
+       height="22.690668"
+       width="22.690668" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/mind/figs/sleep.jpg"
        xlink:href="figs/sleep.jpg"
-       width="40.103268"
-       height="23.541851"
-       preserveAspectRatio="none"
-       id="image1017"
+       y="82.474533"
        x="87.032738"
-       y="82.474533" />
+       id="image1017"
+       preserveAspectRatio="none"
+       height="23.541851"
+       width="40.103268" />
     <image
        sodipodi:absref="/home/bcrowell/Documents/writing/books/vocab/mind/figs/soul.jpg"
        xlink:href="figs/soul.jpg"
-       width="22.676918"
-       height="22.850821"
-       preserveAspectRatio="none"
-       id="image1079"
+       y="82.820045"
        x="33.045822"
-       y="82.820045" />
+       id="image1079"
+       preserveAspectRatio="none"
+       height="22.850821"
+       width="22.676918" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -155,8 +155,13 @@
          style="stroke-width:0.26458332">ὁ νους</tspan><tspan
          sodipodi:role="line"
          x="86.76609"
-         y="67.912498"
+         y="67.912491"
          style="stroke-width:0.26458332"
-         id="tspan1110">ἡ ἔννοια</tspan></text>
+         id="tspan1110">ἡ ἔννοια</tspan><tspan
+         sodipodi:role="line"
+         x="86.76609"
+         y="75.849991"
+         style="stroke-width:0.26458332"
+         id="tspan24">φρονέω</tspan></text>
   </g>
 </svg>
