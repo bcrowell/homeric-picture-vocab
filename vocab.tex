@@ -1,10 +1,9 @@
 \documentclass[12pt,openany]{book}
-\usepackage{fontspec}
+\usepackage{fontspec,graphicx}
 \setmainfont{DejaVu Serif}
 \usepackage[bindingoffset=0.2in,%
             left=0in,right=0.5in,top=1in,bottom=1in,%
             footskip=.25in]{geometry}
-\usepackage[inkscapearea=drawing]{svg}
 \usepackage{titlesec}
 
 \titleformat{\chapter}[block]
@@ -14,10 +13,7 @@
 \newenvironment{notes}{\vfill\scriptsize\begin{flushright}}{\end{flushright}}
 % \tiny would be smaller, \footnotesize larger
 
-\newcommand{\fig}[1]{\begin{center}\includesvg{#1}\end{center}}
-
-%\setsvg{inkscapelatex=false}
-% https://tex.stackexchange.com/questions/213432/how-not-to-extract-text-when-using-includesvg
+\newcommand{\fig}[1]{\begin{center}\includegraphics{#1/#1}\end{center}}
 
 \begin{document}
 
@@ -25,7 +21,7 @@
 
 \chapter{οἵ ἀριθμοί}
 
-\fig{numbers/numbers.svg}
+\fig{numbers}
 
 \begin{notes}
 Homer has 4=τέσσαρα, other ancient dialects τέτταρα.
@@ -39,7 +35,7 @@ prototype, Deuteronomy, tritium.
 
 \chapter{τά ὄμματα, τα πρόσωπα}
 
-\fig{face/face.svg}
+\fig{face}
 
 \begin{notes}
 In Homer, face=τά ὄμματα (lit. eyes), τα πρόσωπα (or -πατα) (pl.).
@@ -57,7 +53,7 @@ acoustic, glossary, tresses.
 
 \chapter{τα γυῖα, τα μέλεα, τό δέμας}
 
-\fig{body/body.svg}
+\fig{body}
 
 \begin{notes}
 Modern: χέρι, πόδι, άνδρας, γυναίκα. In Homer, σῶμα=dead body, τα γυῖα, τα μέλεα=the body (lit. ``the limbs'').
@@ -71,7 +67,7 @@ notochord; cardiology; hemoglobin; χρώς=chroma (skin, color, complexion).
 
 \chapter{τα ζῷα, τα θηρία}
 
-\fig{animals/animals.svg} % gives invalid glyph error
+\fig{animals} 
 
 \begin{notes}
 κάπρος=boar,  θώς=jackal, Iliad 11.  ἀετός, Iliad 17, 21. Cognates: zoo, canine, hippo, lion, lycanthrope, ornithology.
@@ -82,7 +78,7 @@ Modern dog=σκύλος, sheep=πρόβατο.
 
 \chapter{τό πάθος}
 
-\fig{emotions/emotions.svg}
+\fig{emotions}
 
 \begin{notes}
 Descriptions of emotional state that in English would be expressed using to be+adjective (``I am happy'') are
@@ -98,7 +94,7 @@ Cognates: erotic, phobia, hubris.
 
 \chapter{ὁ νους}
 
-\fig{mind/mind.svg}
+\fig{mind}
 
 \begin{notes}
 φρονέω=understand, intend.
@@ -108,7 +104,7 @@ Cognates: erotic, phobia, hubris.
 
 \chapter{ὁ οὐρανός}
 
-\fig{sky/sky.svg}
+\fig{sky}
 
 \begin{notes}
 Cognates: helium, selenuim, asteroid, brontosaurus, anemometer, pneumatic, \emph{Eohippus}=dawn horse.
@@ -118,7 +114,7 @@ Cognates: helium, selenuim, asteroid, brontosaurus, anemometer, pneumatic, \emph
 
 \chapter{prepositions}
 
-\fig{prepositions/prepositions.svg}
+\fig{prepositions}
 
 \begin{notes}
 A λέβης was a cooking pot, used as a unit of value in trade. The word occurs frequently in Homer in descriptions
@@ -129,7 +125,7 @@ of lavish gifts or treasures. NAGD = λέβης, λέβητα, λέβητος, �
 
 \chapter{τρόποι ἀνθρώπων}
 
-\fig{character/character.svg}
+\fig{character}
 
 \begin{notes}
 καλή = good, beautiful, well formed. κακή = bad, lowborn, cowardly, ugly, evil. νέα = young.
