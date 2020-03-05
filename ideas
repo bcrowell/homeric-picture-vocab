@@ -59,41 +59,52 @@ see http://dcc.dickinson.edu/greek-core-list , "ethics and morals"
 
 ====people====
 see http://dcc.dickinson.edu/greek-core-list
-κύριος κυρίου, ὁ
-κόρη - girl
-παρθένος (fem.) - virgin, unmarried girl
-  https://archive.org/details/childrenshomerad00colu/page/138/mode/2up
-  https://archive.org/details/childrenshomerad00colu/page/152/mode/2up
-  https://en.wikipedia.org/wiki/File:1878_Frederick_Leighton_-_Nausicaa.jpg
-βασιλεύς βασιλέως, ὁ - https://archive.org/details/childrenshomerad00colu/page/32/mode/2up (is of Nestor)
+
+extremely common in homer:
+κόρη
 γυνή γυναικός, ἡ
 πατήρ πατρός, ὁ
 μήτηρ μητρός, ἡ
 τέκνον τέκνου, τό - child
   https://archive.org/details/childrenshomerad00colu/page/102/mode/2up
   Hector and Andromache are parents, baby is Astyanax
-παῖς παιδός, ὁ/ἡ
-υἱός υἱοῦ, ὁ
-ἀδελφός
+παῖς παιδός, ὁ/ἡ -- lemmatizer works on παιδός, but not on παῖς
+υἱός υἱοῦ, ὁ - son
+θυγάτηρ, θυγᾰτέρος - daughter
+ἀδελφός, ἀδελφή - brother, sister
+λαός λαοῦ, ὁ - people, subjects
+
+somewhat common in homer:
+παρθένος (fem.) - virgin, unmarried girl
+  https://archive.org/details/childrenshomerad00colu/page/138/mode/2up
+  https://archive.org/details/childrenshomerad00colu/page/152/mode/2up
+  https://en.wikipedia.org/wiki/File:1878_Frederick_Leighton_-_Nausicaa.jpg
+βασιλεύς βασιλέως, ὁ - https://archive.org/details/childrenshomerad00colu/page/32/mode/2up (is of Nestor)
 ἔθνος ἔθνους, τό
-γένος γένους, τό
-πλῆθος
-δῆμος δήμου, ὁ
-λαός λαοῦ, ὁ
+γένος - race, stock, kin, https://logeion.uchicago.edu/%CE%B3%CE%AD%CE%BD%CE%BF%CF%82
+δῆμος δήμου, ὁ - https://logeion.uchicago.edu/%CE%B4%E1%BF%86%CE%BC%CE%BF%CF%82 , district, country, land
 ξένος ξένου, ὁ - guest-friend; foreigner, stranger
   https://archive.org/details/childrenshomerad00colu/page/190/mode/2up
-δοῦλος δούλου, ὁ - slave
-δμώς, ὁ - female house slave, e.g., Eurymedusa, Εὐρυμέδουσα, slave in Nausicaa's household, Odyssey 7.1
+δμώς, ὁ - slave taken in war; female house slave, e.g., Eurymedusa, Εὐρυμέδουσα, slave in Nausicaa's household, Odyssey 7.1
   may not always be clear which homeric characters were slaves;
                https://www.vox.com/identities/2017/11/20/16651634/odyssey-emily-wilson-translation-first-woman-english
   searches for "greek slave" turn up a famous american statue of a christian girl enslaved by turks
   many ancient images show slaves as smaller than masters, ew
   https://en.wikipedia.org/wiki/Eumaeus#/media/File:Telemachus3511.gif -- Eumaios, the swinherd; positively portrayed; is he really a slave?
   https://commons.wikimedia.org/wiki/File:Amphora_olive-gathering_BM_B226.jpg ... seems like the best
+
+uncommon in homer:
 πρέσβυς - old man, ambassador
   https://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)
   https://archive.org/details/childrenshomerad00colu/page/62/mode/2up (is of Phoenix)
   https://en.wikipedia.org/wiki/File:Briseis_Phoinix_Louvre_G152.jpg (also of Phoenix)
+
+
+never in homer:
+κύριος κυρίου, ὁ
+πλῆθος
+δοῦλος δούλου, ὁ - slave
+
 
 ====the world, nature====
 

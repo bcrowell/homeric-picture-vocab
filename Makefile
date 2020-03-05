@@ -12,4 +12,9 @@ figs:
 	scripts/render_one_figure.pl sky/sky.svg
 	scripts/render_one_figure.pl prepositions/prepositions.svg
 	scripts/render_one_figure.pl character/character.svg
+	scripts/render_one_figure.pl family/family.svg
+
+figs_force:
+	rm -f numbers/numbers.png face/face.png body/body.png animals/animals.png emotions/emotions.png mind/mind.png sky/sky.png prepositions/prepositions.png character/character.png family/family.png
+	make figs
 

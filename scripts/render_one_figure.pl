@@ -16,6 +16,8 @@ use File::Glob;
 use File::Copy;
 use File::Temp qw(tempdir);
 
+my $resolution = 150;
+
 my $always_make_png = 1;
 
 my $not_for_real = 0;
@@ -87,9 +89,9 @@ $png=~s/\.svg$/.png/;
 # go through pdftoppm first.
 my $ppm = 'z-1.ppm'; # only 1 page in pdf
 push @temp_files,$ppm;
-if (system("pdftoppm -r 300 $pdf z")!=0) {finit("Error in render_one_figure.pl, pdftoppm")}
+if (system("pdftoppm -r $resolution $pdf z")!=0) {finit("Error in render_one_figure.pl, pdftoppm")}
 if (system("convert $ppm $png")!=0) {finit("Error in render_one_figure.pl, ImageMagick's convert")}
-if (system("mogrify -density 300x300 -units PixelsPerInch $png")!=0) {finit("Error in render_one_figure.pl, ImageMagick's mogrify")}
+if (system("mogrify -density ${resolution}x${resolution} -units PixelsPerInch $png")!=0) {finit("Error in render_one_figure.pl, ImageMagick's mogrify")}
 
 print "\n";
 finit();
